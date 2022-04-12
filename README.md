@@ -5,7 +5,7 @@ Este projeto tem como objetivo mostrar o funcionamento de um programa que adicio
 <div style="display: inline_block"><br>
   - Linguagem utilizada: <i><b>Java</b></i>
      <img height="20" width="30" align="center" alt="Amanda-C++" src="https://img.icons8.com/material/344/java-coffee-cup-logo.svg">
-</div>Java 
-
-- Programa utilizado: NetBeans
-- 
+  
+  <p>- Programa utilizado: NetBeans</p>
+  
+</div>
